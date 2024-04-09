@@ -2,7 +2,7 @@
 
 ## Оглавление  
 [1. Описание проекта](.README.md###Описание-проекта)  
-[2. Какой кейс решаем?](.https://github.com/Anna-Zaitseva/The-boots-price-prediction-in-spring./blob/master/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC))  
+[2. Какой кейс решаем?](https://github.com/Anna-Zaitseva/The-boots-price-prediction-in-spring./blob/master/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC))  
 [3. Краткая информация о данных](.README.md###Краткая-информация-о-данных)   
 [4. Этапы работы над проектом](.README.md###Этапы-работы-над-проектом)  
 [5. Результат](.README.md###Результат)  
